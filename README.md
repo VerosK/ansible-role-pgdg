@@ -1,6 +1,8 @@
 # ansible role VerosK.pgdg
 
-This role add PostgreSQL PGDG repo. It can be used later to deploy PostgreSQL.
+This role add PostgreSQL PGDG yum repo. 
+
+The repo be used later to deploy specific PostgreSQL version.
 
 Works on CentOS.
 
